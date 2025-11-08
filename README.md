@@ -1,5 +1,6 @@
 # SOLAR-POWERED-LORA-MESH-NETWORK-FOR-EMERGENCY-COMMUNICATION-IN-DISASTERS
 📌Open Source Project
+
 Project hardware: 
 
 ▫️Solar panel — HST06003
@@ -17,6 +18,6 @@ Role: Runs sensors, power management logic, and transmits data over LoRaWAN or c
 ▫️Energy storage — Single-cell Lithium-ion battery
 Role: Stores energy for night-time and low-sun periods, provides a stable supply to the TTGO board and peripherals.
 
-Block Diagram:
+
 
 
