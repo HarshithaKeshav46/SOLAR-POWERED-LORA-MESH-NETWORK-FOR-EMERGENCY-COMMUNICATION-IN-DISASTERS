@@ -28,8 +28,6 @@ Role: Stores energy for night-time and low-sun periods, provides a stable supply
 
 BLOCK DIAGRAM:
 
-![WhatsApp Image 2025-11-08 at 8 32 46 PM](https://github.com/user-attachments/assets/b3261ae5-af09-4979-9bc5-5cb2cd96a9e5)
-
-
+![blockdiagram](https://github.com/user-attachments/assets/fc367dc2-85c1-4f4c-b61b-f5a065ebe0f4)
 
 
