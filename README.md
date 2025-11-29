@@ -1,3 +1,4 @@
+![WhatsApp Image 2025-11-29 at 9 07 14 PM](https://github.com/user-attachments/assets/94cb962d-f26d-4e72-95da-62d846c12069)
 # SOLAR-POWERED-LORA-MESH-NETWORK-FOR-EMERGENCY-COMMUNICATION-IN-DISASTERS
 📌Open Source Project
 
@@ -28,6 +29,7 @@ Role: Stores energy for night-time and low-sun periods, provides a stable supply
 
 BLOCK DIAGRAM:
 
-![blockdiagram](https://github.com/user-attachments/assets/fc367dc2-85c1-4f4c-b61b-f5a065ebe0f4)
+![WhatsApp Image 2025-11-29 at 9 07 14 PM](https://github.com/user-attachments/assets/a688b86c-3fb7-49c4-9a55-711523112720)
+
 
 
