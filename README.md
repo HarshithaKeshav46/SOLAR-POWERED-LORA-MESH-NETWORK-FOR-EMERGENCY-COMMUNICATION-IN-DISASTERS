@@ -1,4 +1,3 @@
-![WhatsApp Image 2025-11-29 at 9 07 14 PM](https://github.com/user-attachments/assets/94cb962d-f26d-4e72-95da-62d846c12069)
 # SOLAR-POWERED-LORA-MESH-NETWORK-FOR-EMERGENCY-COMMUNICATION-IN-DISASTERS
 📌Open Source Project
 
