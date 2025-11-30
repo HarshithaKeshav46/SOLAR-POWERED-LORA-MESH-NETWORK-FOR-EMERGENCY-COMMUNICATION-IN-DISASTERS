@@ -30,19 +30,24 @@ BLOCK DIAGRAM:
 
 ![WhatsApp Image 2025-11-29 at 9 07 14 PM](https://github.com/user-attachments/assets/a688b86c-3fb7-49c4-9a55-711523112720)
 
-
+EFFICIENCY AND ACCURACY:
 1) Message Delivery Ratio (MDR / PDR):
 Expected (single-node loopback): 99.5% – 100%
 Rationale: messages are local to node; missed messages mostly from app disconnects or 
 GATT write failures.
 Acceptable threshold: ≥ 95%
 Excellent target: ≥ 99.9%
+
+
 2) Packet Error Rate (PER):
 Expected: 0% – 0.5% (PER = 100 − MDR)
+
+
 3)End-to-End Latency (phone → ESP32 processed/displayed):BLE (GATT) typical 
 mean: 20 ms – 120 ms . BLE heavy/load or Android background: 50 ms – 250 ms (p95)
 WebSocket (local Wi-Fi AP) mean: 5 ms – 50 ms
 Acceptable target (demo): mean < 200 ms, p95 < 400 ms
 Excellent target: mean < 50 ms, p95 < 100 ms
-4)Solar Charging Efficiency :Expected practical efficiency (panel → battery): 40% –
-75% overall
+
+
+4)Solar Charging Efficiency :Expected practical efficiency (panel → battery): 40% –75% overall
