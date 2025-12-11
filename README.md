@@ -22,11 +22,14 @@ This repository includes firmware, hardware documentation, offline map integrati
 
 🛠 [Hardware Overview](Components.png)
 
-📡 [System Architecture](/Users/Shared/Harshithakeshav/Desktop/myproject/block diagram.jpeg)
+📡 [System Architecture](block diagram.jpeg)
 
-[Map code](sketch_nov23a__3_.ino) ([compliedphoto](Code executed.png))([gpstrackerwifeavailability](gps tracker wifi available.png))([serialmonitor output](output.png))([Map output](map.jpeg))
+[Map code](sketch_nov23a__3_.ino) [compliedphoto](Code executed.png)[gpstrackerwifeavailability](gps tracker wifi available.png)
+[serialmonitor output](output.png)
+[Map output](map.jpeg)
 
-[Prototype](final prototype.jpeg)([prototyeview](final protype 2-1.jpeg))([wi-fiavailability](wi-fi availability.jpeg))
+[Prototype](final prototype.jpeg)
+[prototyeview](final protype 2-1.jpeg)[wi-fiavailability](wi-fi availability.jpeg)
 
 [Demonstrationvedio](demonstration vedio.mp4)
 
